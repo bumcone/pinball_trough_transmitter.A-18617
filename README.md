@@ -24,7 +24,7 @@ This board _should_ work in the following games:
 |Theatre of Magic           |        |Bally         |
 |Who Dunnit                 |        |Bally         |
 |World Cup Soccer           |        |Bally         |
-|:---                       |:---    |:---          |
+|                           |        |              |
 |Congo                      |        |Williams      |
 |Dirty Harry                |        |Williams      |
 |Flintstones                |        |Williams      |
@@ -38,7 +38,7 @@ This board _should_ work in the following games:
 |Roadshow                   |        |Williams      |
 |Star Wars Episode 1        |        |Williams      |
 |Tales of the Arabian Nights|        |Williams      |
-|:---                       |:---    |:---          |
+|                           |        |              |
 |Attack from Mars (Remake)  |Classic |Chicago Gaming|
 |Attack from Mars (Remake)  |Limited |Chicago Gaming|
 |Attack from Mars (Remake)  |Special |Chicago Gaming|
