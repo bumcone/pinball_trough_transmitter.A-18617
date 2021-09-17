@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 32)
+    (drawings 30)
     (tracks 0)
     (zones 0)
     (modules 16)
@@ -847,11 +847,9 @@
   (gr_line (start 106.68 59.69) (end 99.06 59.69) (layer F.SilkS) (width 0.15))
   (gr_line (start 71.755 57.15) (end 71.755 64.77) (layer F.SilkS) (width 0.15))
   (gr_line (start 79.375 57.15) (end 71.755 57.15) (layer F.SilkS) (width 0.15))
-  (gr_circle (center 143.51 57.15) (end 144.997898 58.42) (layer Edge.Cuts) (width 0.15) (tstamp 61438961))
-  (gr_circle (center 88.9 58.42) (end 90.387898 59.69) (layer Edge.Cuts) (width 0.15) (tstamp 614388B5))
-  (gr_circle (center 116.205 60.96) (end 117.692898 62.23) (layer Edge.Cuts) (width 0.15) (tstamp 614388AB))
-  (gr_circle (center 143.51 63.5) (end 144.997898 64.77) (layer Edge.Cuts) (width 0.15) (tstamp 614388A5))
-  (gr_circle (center 170.815 66.04) (end 172.302898 67.31) (layer Edge.Cuts) (width 0.15) (tstamp 614388A3))
+  (gr_circle (center 144.145 57.785) (end 145.632898 59.055) (layer Edge.Cuts) (width 0.15) (tstamp 61438961))
+  (gr_circle (center 90.17 59.69) (end 91.657898 60.96) (layer Edge.Cuts) (width 0.15) (tstamp 614388B5))
+  (gr_circle (center 144.145 64.135) (end 145.632898 65.405) (layer Edge.Cuts) (width 0.15) (tstamp 614388A5))
   (gr_circle (center 198.12 68.58) (end 199.607898 69.85) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 67.277387 134.230068) (end 229.837387 134.230068) (layer Edge.Cuts) (width 0.15) (tstamp 6135095C))
   (gr_line (start 67.277387 108.830068) (end 213.327387 108.830068) (layer Edge.Cuts) (width 0.15) (tstamp 6135095B))
