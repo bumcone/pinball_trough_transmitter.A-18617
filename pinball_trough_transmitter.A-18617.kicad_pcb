@@ -364,7 +364,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 614186B9)
-    (at 103.886 60.198 270)
+    (at 103.895 59.198 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /613517B0)
@@ -400,7 +400,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 614186A7)
-    (at 130.937 63.246 270)
+    (at 130.955 61.246 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /61351738)
@@ -436,7 +436,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 61418695)
-    (at 157.988 66.294 270)
+    (at 158.015 63.294 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /613516B1)
@@ -472,7 +472,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 61418683)
-    (at 185.039 69.342 270)
+    (at 185.075 65.342 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /613514F7)
@@ -508,7 +508,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 61418671)
-    (at 212.09 72.39 270)
+    (at 212.135 67.39 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /6135145B)
@@ -544,7 +544,7 @@
   )
 
   (module LED_THT:LED_D5.0mm_Clear (layer F.Cu) (tedit 5A6C9BC0) (tstamp 6141865F)
-    (at 222.25 50.165 270)
+    (at 225.25 52.165 270)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /613501A2)
