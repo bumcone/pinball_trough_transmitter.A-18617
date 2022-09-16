@@ -1,5 +1,14 @@
 # Pinball Trough Transmitter A-18617
 
+-----
+# WARNING
+
+**WARNING:** I haven't done a run of these boards yet - they may not be right -
+use at your own risk
+
+# WARNING
+-----
+
 ## Introduction
 
 Pinball LED Trough Transmitter board ( `5768-14121-02` ).
