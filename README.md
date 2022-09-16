@@ -46,5 +46,9 @@ This board _should_ work in the following games:
 |Monster Bash (Remake)      |Limited |Chicago Gaming|
 |Monster Bash (Remake)      |Special |Chicago Gaming|
 
+## Board design
+
+![Bumcone A-18617 Rev1.18](board.png)
+
 ----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
