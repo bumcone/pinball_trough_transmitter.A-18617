@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 601)
+    (drawings 602)
     (tracks 58)
     (zones 0)
     (modules 8)
@@ -544,6 +544,7 @@
     )
   )
 
+  (gr_circle (center 219.964 85.304) (end 222.964 85.304) (layer Edge.Cuts) (width 0.15) (tstamp 63258924))
   (gr_text "4/6 Ball Opto Transmitter" (at 153.67 114.935) (layer F.SilkS) (tstamp 6324B75C)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
