@@ -59,12 +59,19 @@ The following games used the `A-18617` ( `5768-14121-02` PCB ) board:
 ## LED Alignment
 
 When mounted to a trough ( such as `A-16809-2` ), this board has its LEDs
-aligned close to the bottom of the pill shaped openings. This seems to be a
-similar position to those on the `A-18617` ( `5768-14121-02` PCB ) boards.
+aligned in the center of the pill shaped openings. This seems to be more like
+the alignment of the `A-17982-AI` / `A-17982` / `A-16987` board
+( `5768-13660-01` PCB ) found in other Williams machines. This seems like a
+better spot to put them and for my purpose (homebrew), it does not matter as I
+will align the other board accordingly. If however, you were to use these boards
+with an existing `A-18618` / `A-18618-1` you'd probably want the LEDs to align
+at the bottom, in which case you'd use the
+[bottom aligned](https://github.com/bumcone/pinball_trough_transmitter.A-18617/tree/bottom)
+version of this board.
 
 ## Board design
 
-![Bumcone A-18617 Rev1.24](board.png)
+![Bumcone A-18617 Rev1.25](board.png)
 
 ----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
