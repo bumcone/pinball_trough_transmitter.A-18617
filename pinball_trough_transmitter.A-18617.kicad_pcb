@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (rev v1.18)
+    (rev v1.19)
   )
 
   (layers
@@ -857,7 +857,7 @@
   (gr_line (start 71.237778 113.757876) (end 71.351042 113.65778) (layer B.SilkS) (width 0.1) (tstamp 6324DDC8))
   (gr_line (start 69.492244 107.223267) (end 68.579256 106.969267) (layer B.SilkS) (width 0.1) (tstamp 6324DDC7))
   (gr_line (start 76.835 109.855) (end 76.454 110.107589) (layer B.SilkS) (width 0.1) (tstamp 6324DDC6))
-  (gr_text "Rev: v1.18" (at 81.915 114.935) (layer B.SilkS) (tstamp 6324DDBF)
+  (gr_text "Rev: v1.19" (at 81.915 114.935) (layer B.SilkS) (tstamp 6324DDBF)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify right mirror))
   )
   (gr_line (start 192.939859 93.351077) (end 192.948812 93.358889) (layer B.SilkS) (width 0.05) (tstamp 6324C421))
@@ -2581,7 +2581,7 @@
   (gr_line (start 191.24908 90.995126) (end 191.25847 90.946666) (layer F.SilkS) (width 0.05) (tstamp 6324A3ED))
   (gr_line (start 191.22879 90.805726) (end 191.20687 90.773226) (layer F.SilkS) (width 0.05) (tstamp 6324A3EC))
   (gr_line (start 191.17405 91.089906) (end 191.22093 91.047206) (layer F.SilkS) (width 0.05) (tstamp 6324A3EB))
-  (gr_text "Rev: v1.18" (at 93.98 114.935) (layer F.SilkS) (tstamp 6324A3EA)
+  (gr_text "Rev: v1.19" (at 93.98 114.935) (layer F.SilkS) (tstamp 6324A3EA)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify right))
   )
   (gr_line (start 191.24496 90.843266) (end 191.22879 90.805726) (layer F.SilkS) (width 0.05) (tstamp 6324A3E9))
@@ -2857,10 +2857,10 @@
   (gr_line (start 103.901 91.848) (end 96.281 91.848) (layer B.SilkS) (width 0.15))
   (gr_line (start 69.21 88.8) (end 69.21 96.42) (layer B.SilkS) (width 0.15))
   (gr_line (start 76.83 88.8) (end 69.21 88.8) (layer B.SilkS) (width 0.15))
-  (gr_circle (center 141.097 91.567) (end 143.597 91.567) (layer Edge.Cuts) (width 0.15) (tstamp 61438961))
-  (gr_circle (center 86.614 92.075) (end 89.114 92.075) (layer Edge.Cuts) (width 0.15) (tstamp 614388B5))
-  (gr_circle (center 141.097 97.917) (end 143.597 97.917) (layer Edge.Cuts) (width 0.15) (tstamp 614388A5))
-  (gr_circle (center 195.334 104.14) (end 197.834 104.14) (layer Edge.Cuts) (width 0.15))
+  (gr_circle (center 141.097 86.574) (end 144.097 86.574) (layer Edge.Cuts) (width 0.15) (tstamp 61438961))
+  (gr_circle (center 86.614 92.075) (end 89.614 92.075) (layer Edge.Cuts) (width 0.15) (tstamp 614388B5))
+  (gr_circle (center 141.097 97.917) (end 144.097 97.917) (layer Edge.Cuts) (width 0.15) (tstamp 614388A5))
+  (gr_circle (center 194.866 103.632) (end 197.866 103.632) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 63.5 80.01) (end 63.5 118.11) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 226.06 93.98) (end 209.55 118.11) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 226.06 80.01) (end 226.06 93.98) (layer Edge.Cuts) (width 0.15))
