@@ -11,11 +11,12 @@ use at your own risk
 
 ## Introduction
 
-Pinball LED Trough Transmitter board ( like `5768-14121-02` ).
+Pinball LED Trough Transmitter board ( like `5768-14121-02` PCB or `A-18617`
+when populated ).
 
 ## Supported Games
 
-The following games used the `5768-14121-02` board:
+The following games used the `A-18617` ( `5768-14121-02` PCB ) board:
 
 |Game                       |Edition |Manufacturer  |
 |:---                       |:---    |:---          |
@@ -57,9 +58,9 @@ The following games used the `5768-14121-02` board:
 
 ## LED Alignment
 
-When mounted to a trough (such as `A-16809-2`), this board has its LEDs aligned
-close to the bottom of the pill shaped openings. This seems to be a similar
-position to those on the `5768-14121-02` boards.
+When mounted to a trough ( such as `A-16809-2` ), this board has its LEDs
+aligned close to the bottom of the pill shaped openings. This seems to be a
+similar position to those on the `A-18617` ( `5768-14121-02` PCB ) boards.
 
 ## Board design
 
