@@ -11,11 +11,11 @@ use at your own risk
 
 ## Introduction
 
-Pinball LED Trough Transmitter board ( `5768-14121-02` ).
+Pinball LED Trough Transmitter board ( like `5768-14121-02` ).
 
 ## Supported Games
 
-This board _should_ work in the following games:
+The following games used the `5768-14121-02` board:
 
 |Game                       |Edition |Manufacturer  |
 |:---                       |:---    |:---          |
@@ -55,9 +55,15 @@ This board _should_ work in the following games:
 |Monster Bash (Remake)      |Limited |Chicago Gaming|
 |Monster Bash (Remake)      |Special |Chicago Gaming|
 
+## LED Alignment
+
+When mounted to a trough (such as `A-16809-2`), this board has its LEDs aligned
+close to the bottom of the pill shaped openings. This seems to be a similar
+position to those on the `5768-14121-02` boards.
+
 ## Board design
 
-![Bumcone A-18617 Rev1.18](board.png)
+![Bumcone A-18617 Rev1.24](board.png)
 
 ----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
