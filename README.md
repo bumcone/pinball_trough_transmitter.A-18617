@@ -71,7 +71,7 @@ version of this board.
 
 ## Board design
 
-![Bumcone A-18617 Rev1.25](board.png)
+![Bumcone A-18617 Rev1.26](board.png)
 
 ----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
