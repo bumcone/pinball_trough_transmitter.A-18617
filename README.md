@@ -1,4 +1,4 @@
-# Pinball Trough Transmitter A-18617
+# Pinball Trough Transmitter A-18617 / A-18617-1
 
 -----
 # WARNING
@@ -11,12 +11,13 @@ use at your own risk
 
 ## Introduction
 
-Pinball LED Trough Transmitter board ( like `5768-14121-02` PCB or `A-18617`
-when populated ).
+Pinball LED Trough Transmitter board ( like `5768-14121-02` PCB or `A-18617` /
+`A-18617-1` when populated ).
 
 ## Supported Games
 
-The following games used the `A-18617` ( `5768-14121-02` PCB ) board:
+The following games used the `A-18617` / `A-18618-1` ( `5768-14121-02` PCB )
+board:
 
 |Game                       |Edition |Manufacturer  |
 |:---                       |:---    |:---          |
@@ -60,7 +61,7 @@ The following games used the `A-18617` ( `5768-14121-02` PCB ) board:
 
 When mounted to a trough ( such as `A-16809-2` ), this board has its LEDs
 aligned in the center of the pill shaped openings. This seems to be more like
-the alignment of the `A-17982-AI` / `A-17982` / `A-16987` board
+the alignment of the `A-17982-AI` / `A-17982` board
 ( `5768-13660-01` PCB ) found in other Williams machines. This seems like a
 better spot to put them and for my purpose (homebrew), it does not matter as I
 will align the other board accordingly. If however, you were to use these boards
